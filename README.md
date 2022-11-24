@@ -51,18 +51,18 @@ Starca is a storage marketplace that allows users to either list their unusued s
 
 **Optional Nice-to-have Stories**
 
--[ ] User will be able to block other users
--[ ] User will be able to view previously rented storage listing
--[ ] PayPal payment
--[ ] User will be able to click "forgot password" to recover their password
--[ ] (Live Messaging) User will be able to see a message pop up automatically once it is received from another user
--[ ] Highly rated users will have an icon denoting their high rating next to their profile pictures
--[ ] User can disable maps in dashboard
--[x] User will have to verify their email address
--[ ] User will see the average response time of the owners they are trying to rent from
--[ ] User will be able to sign in with Google
--[ ] User will see a custom alert dialog
--[ ] User will be able to sign in with Facebook
+- [ ] User will be able to block other users
+- [ ] User will be able to view previously rented storage listing
+- [ ] PayPal payment
+- [ ] User will be able to click "forgot password" to recover their password
+- [ ] (Live Messaging) User will be able to see a message pop up automatically once it is received from another user
+- [ ] Highly rated users will have an icon denoting their high rating next to their profile pictures
+- [ ] User can disable maps in dashboard
+- [x] User will have to verify their email address
+- [ ] User will see the average response time of the owners they are trying to rent from
+- [ ] User will be able to sign in with Google
+- [ ] User will see a custom alert dialog
+- [ ] User will be able to sign in with Facebook
 
 ### 2. Screen Archetypes
 
