@@ -31,23 +31,23 @@ Starca is a storage marketplace that allows users to either list their unusued s
 
 **Required Must-have Stories**
 
--[x] Users will be able to register an account
--[x] Users will be able to log in to their account
--[x] Users will be able to view listings of storage places to rent nearby
--[] Users will be able to view listings in other selected areas
--[x] Users will be able to post listings
-  -[x] Users will be able to post a picture (implicit intent) for listings
-  -[x] User will be able post details on their storage listing
--[x] Users will be able to update their profile
--[x] Users will be able to delete their account
--[ ] User will be able to post multiple pictures for listings
--[ ] Users will have a dashboard to select listings/rentals they own
--[ ] Users will be able to rate each other
--[ ] User will be able to click on a listing to view more details
--[ ] Users will be able to chat with their prospective renters/rentees
--[ ] User will be able to request to rent a listing
--[ ] Owners will be prompted when a user wants to rent their listing
--[ ] User will be prompted to accept the rental once the owner accepts a request
+- [x] Users will be able to register an account
+- [x] Users will be able to log in to their account
+- [x] Users will be able to view listings of storage places to rent nearby
+- [ ] Users will be able to view listings in other selected areas
+- [x] Users will be able to post listings
+  - [x] Users will be able to post a picture (implicit intent) for listings
+  - [x] User will be able post details on their storage listing
+- [x] Users will be able to update their profile
+- [x] Users will be able to delete their account
+- [ ] User will be able to post multiple pictures for listings
+- [ ] Users will have a dashboard to select listings/rentals they own
+- [ ] Users will be able to rate each other
+- [ ] User will be able to click on a listing to view more details
+- [ ] Users will be able to chat with their prospective renters/rentees
+- [ ] User will be able to request to rent a listing
+- [ ] Owners will be prompted when a user wants to rent their listing
+- [ ] User will be prompted to accept the rental once the owner accepts a request
 
 **Optional Nice-to-have Stories**
 
@@ -458,18 +458,18 @@ query.getInBackground("<PARSE_OBJECT_ID_ofAccount>", (object, e) -> {
 
 #### Required stories
 
--[x] Users will be able to register an account
--[x] Users will be able to log in to their account
--[x] Users will be able to view listings of storage places to rent nearby
--[x] Users will be able to post listings
-  -[x] Users will be able to post a picture (implicit intent) for listings
-  -[x] User will be able post details on their storage listing
--[x] Users will be able to update their profile
--[x] Users will be able to delete their account
+- [x] Users will be able to register an account
+- [x] Users will be able to log in to their account
+- [x] Users will be able to view listings of storage places to rent nearby
+- [x] Users will be able to post listings
+  - [x] Users will be able to post a picture (implicit intent) for listings
+  - [x] User will be able post details on their storage listing
+- [x] Users will be able to update their profile
+- [x] Users will be able to delete their account
 
 #### Stretch stories
 
--[x] User will have to verify their email address
+- [x] User will have to verify their email address
 
 
    - [Add list of network requests by screen ]
